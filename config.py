@@ -1,0 +1,5 @@
+API_KEY = "B6FksShzIgjfrYImLpTsadjS86sddhFH"
+API_URL = "https://ff.garena.com/api/antihack/check_banned?lang=en&uid=${uid}"
+COMMAND_PREFIX = "!"
+BOT_TOKEN = "MTM5NDcwMTExNDUzNTk2ODc2OA.GE-zNC.mLn7TrajJdrhj-2uTNJI8f2ivHhs8e3PuBPV5Q"
+FOOTER_TEXT = "Powered by Meta"
